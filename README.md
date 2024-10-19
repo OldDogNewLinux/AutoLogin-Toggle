@@ -10,9 +10,9 @@ Enjoy!
 
 olddognewlinux@gmail.com
 
-https://github.com/OldDogNewLinux
-
 https://www.youtube.com/@olddognewlinux
+
+https://github.com/OldDogNewLinux?tab=repositories
 
 
 If you appreciate my time and work and would like to replenish my espresso supply:
