@@ -12,6 +12,7 @@ olddognewlinux@gmail.com
 
 https://github.com/OldDogNewLinux
 
+https://www.youtube.com/@olddognewlinux
 
 
 If you appreciate my time and work and would like to replenish my espresso supply:
