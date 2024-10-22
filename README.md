@@ -10,6 +10,7 @@ on an XFCE desktop using the LightDM login manager.
 
 
 Enjoy! 
+
 -Joseph
 
 olddognewlinux@gmail.com
