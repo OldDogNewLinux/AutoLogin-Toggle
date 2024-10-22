@@ -1,4 +1,5 @@
-AutoLogin-Toggle
+#AutoLogin-Toggle
+
 2024-10-18 
 
 A lot of people including myself are looking for a simple solution for enabling or disabling autologin for Linux,
